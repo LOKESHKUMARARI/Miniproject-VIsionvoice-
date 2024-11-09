@@ -1,4 +1,4 @@
-## Vision Voice
+# Vision Voice
 
 Vision Voice is an assistive mobile application designed to provide visually impaired individuals with real-time auditory descriptions of their environment.Vision Voice allows users to capture images of their surroundings and receive spoken feedback in either English or Tamil.
 
